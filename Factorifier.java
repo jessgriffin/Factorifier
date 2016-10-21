@@ -1,3 +1,10 @@
+/****************************************************************************
+ *
+ * Created by: Jess and Craig
+ * Created on: Oct 2016
+ * Takes a string from the user and reverses it using recursion.
+ ****************************************************************************/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
